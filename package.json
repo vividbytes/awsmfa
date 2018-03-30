@@ -1,6 +1,6 @@
 {
    "name": "awsmfa",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "description": "\"Utility for using 2-factor authentication with AWS CLI\"",
    "main": "index.js",
    "keywords": [
