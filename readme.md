@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Your aws profiles should be located at `~/.aws/credentials` and file should look something like the following. You can't have a `[default]` profile because that will be overwritten by this program. `mfa_arn` is the arn of the mfa device that you've registered with a particular IAM user.
+Your aws credentials should be located at `~/.aws/credentials` and the file should look something like the one below. You can't have a `[default]` profile because that will be overwritten by this program. `mfa_arn` is the arn of the mfa device that you've registered with a particular IAM user.
 
 ```
 [profile-1]
