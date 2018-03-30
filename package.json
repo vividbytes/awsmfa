@@ -1,6 +1,6 @@
 {
    "name": "@vividbytes/awsmfa",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "description": "\"Utility for using 2-factor authentication with AWS CLI\"",
    "main": "index.js",
    "keywords": [
