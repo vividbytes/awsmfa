@@ -1,0 +1,18 @@
+{
+   "name": "awsmfa",
+   "version": "0.0.1",
+   "description": "\"Utility for using 2-factor authentication with AWS CLI\"",
+   "main": "index.js",
+   "keywords": [
+      "aws",
+      "cli",
+      "2-factor",
+      "multi-factor",
+      "authentication"
+   ],
+   "author": "Lauri Kinnunen",
+   "license": "MIT",
+   "bin": {
+      "awsmfa": "bin/awsmfa.js"
+   }
+}
