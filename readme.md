@@ -20,7 +20,7 @@ mfa_arn = arn:aws:iam::lsfaiselfjlaskjkda:mfa/profile-2
 
 ## Usage
 
-After installation you should have access to the `awsfma` command. The first argument is the mfa token and the second argument is the profile you want to use.
+After installation you should have access to the `awsmfa` command. The first argument is the mfa token and the second argument is the profile you want to use.
 
 **Example**
 
