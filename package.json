@@ -1,6 +1,6 @@
 {
    "name": "@vividbytes/awsmfa",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "description": "\"Utility for using 2-factor authentication with AWS CLI\"",
    "repository": "github:vividbytes/awsmfa",
    "keywords": [
