@@ -45,4 +45,4 @@ aws_secret_access_key = hc5mLgs8mFP5KVN5js+nHdTJqkkxLRSiCJeMP0kR
 aws_session_token = FQoDYXdzENj//////////wEaDBSRyXR9SFAmXO/r/yKwAVDM2JNEGzIT4xAcFWRjOviFWZvKsTr6IXi2gXwvRnGIHHYDLwp89m0CsKMmsR+olGfnUJCd8LoD9M5ckCPIZcu5tsSNibR/wVJV4Rnnhksw+ZXKs8vCzN28/0EWCKPorIBFyvb6TWHyEx6mko2YeZNrS+dJfG3j4Ss5M1jGo9x1tmavp4HW4dtVnqKwh0cJYnpJ6zur6XMIG9jlRsp+1LWg/cQrwVdHiPrN8Lca8PX2KLCr+dUF
 ```
 
-Now, when you use the AWS CLI, it defaults to using the session you last started.
+Now, when you use the AWS CLI, it defaults to using the session you last started. If you think what this package offers is too simplistic and you want more control, check out [broamski/aws-mfa](https://github.com/broamski/aws-mfa).
