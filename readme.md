@@ -1,6 +1,6 @@
 ## Installation
 
-`npm i -g @vividbytes/awsmfa`
+`npm i -g @notbrain/awsmfa`
 
 ## Requirements
 
@@ -24,7 +24,7 @@ After installation you should have access to the `awsmfa` command. The first arg
 
 **Example**
 
-`awsmfa 382973 profile-1`
+`awsmfa profile-1 382973`
 
 The commmand adds a `[default]` profile to your credentials file with a session-token. The session is valid for 24 hours. The credentials file would now look something like this.
 
