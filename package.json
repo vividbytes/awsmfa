@@ -1,18 +1,18 @@
 {
-   "name": "@vividbytes/awsmfa",
-   "version": "0.0.4",
-   "description": "\"Utility for using 2-factor authentication with AWS CLI\"",
-   "repository": "github:vividbytes/awsmfa",
-   "keywords": [
-      "aws",
-      "cli",
-      "2-factor",
-      "multi-factor",
-      "authentication"
-   ],
-   "author": "Lauri Kinnunen",
-   "license": "MIT",
-   "bin": {
-      "awsmfa": "bin/awsmfa.js"
-   }
+  "name": "@notbrain/awsmfa",
+  "version": "0.1.0",
+  "description": "Utility for using 2-factor authentication with AWS CLI",
+  "repository": "github:notbrain/awsmfa",
+  "keywords": [
+    "aws",
+    "cli",
+    "2-factor",
+    "multi-factor",
+    "authentication"
+  ],
+  "author": "Lauri Kinnunen & Brian Ross",
+  "license": "MIT",
+  "bin": {
+    "awsmfa": "bin/awsmfa.js"
+  }
 }

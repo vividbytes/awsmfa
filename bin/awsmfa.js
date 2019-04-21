@@ -3,8 +3,8 @@
 const execSync = require('child_process').execSync;
 const fs = require('fs');
 
-const token = process.argv[2];
-const profile = process.argv[3];
+const profile = process.argv[2];
+const token = process.argv[3];
 const duration = 86400;
 
 let creds;
