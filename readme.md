@@ -1,6 +1,8 @@
 ## Installation
 
-`npm i -g @notbrain/awsmfa` (COMING SOON)
+```
+npm i -g @notbrain/awsmfa` (COMING SOON)
+```
 
 ```
 git clone --depth 1 https://github.com/notbrain/awsmfa
