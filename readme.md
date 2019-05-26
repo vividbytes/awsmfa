@@ -1,6 +1,6 @@
 ## Installation
 
-`npm i -g @notbrain/awsmfa`
+`npm i -g @notbrain/awsmfa` (COMING SOON)
 
 ## Requirements
 
