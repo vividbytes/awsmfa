@@ -2,6 +2,12 @@
 
 `npm i -g @notbrain/awsmfa` (COMING SOON)
 
+```
+git clone --depth 1 https://github.com/notbrain/awsmfa
+cd awsmfa
+npm i -g 
+```
+
 ## Requirements
 
 Your aws credentials should be located at `~/.aws/credentials` and the file should look something like the one below. You can't have a `[default]` profile because that will be overwritten by this program. `mfa_arn` is the arn of the mfa device that you've registered with a particular IAM user.
