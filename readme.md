@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-npm i -g @notbrain/awsmfa` (COMING SOON)
+npm i -g @notbrain/awsmfa (COMING SOON)
 ```
 
 ```
