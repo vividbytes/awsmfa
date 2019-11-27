@@ -65,14 +65,14 @@ if (!mfaArn) {
 }
 
 try {
-    const credString = execSync(
-        `aws --profile ${profile} sts get-session-token \
-             --serial-number ${mfaArn} \
-             --token-code ${token} \
-             --duration-seconds ${duration}`
-    );
-
-    creds = JSON.parse(credString).Credentials;
+  const credString = execSync(
+    `aws --profile ${profile} sts get-session-token \
+    --serial-number ${mfaArn} \
+    --token-code ${token} \
+    --duration-seconds ${duration} \
+    --output json`
+  );
+  creds = JSON.parse(credString).Credentials;
 } catch (e) {
     console.error(e.message);
     process.exit(1);
